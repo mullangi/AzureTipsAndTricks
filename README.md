@@ -83,6 +83,11 @@ Special thanks to our contributors:
             <img src="https://avatars0.githubusercontent.com/u/32709965?s=400&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
+         <td align="center">
+        <a href="https://github.com/kumarallamraju">
+            <img src="https://avatars3.githubusercontent.com/u/15897803?s=400&v=4" width="100px;" alt=""/><br />
+        </a>
+    </td>
      <td align="center">
         <a href="https://github.com/theheatDK">
             <img src="https://avatars2.githubusercontent.com/u/17799567?s=400&v=4" width="100px;" alt=""/><br />
@@ -103,13 +108,13 @@ Special thanks to our contributors:
             <img src="https://avatars0.githubusercontent.com/u/1086665?s=400&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
-    <td align="center">
+    </tr>
+    <tr>
+        <td align="center">
         <a href="https://github.com/uneedgo">
             <img src="https://avatars2.githubusercontent.com/u/59988192?s=400&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
-    </tr>
-    <tr>
      <td align="center">
         <a href="https://github.com/tosokr">
             <img src="https://avatars0.githubusercontent.com/u/1630501?s=400&v=4" width="100px;" alt=""/><br />
@@ -145,13 +150,13 @@ Special thanks to our contributors:
             <img src="https://avatars3.githubusercontent.com/u/6183710?s=400&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
-    <td align="center">
+    </tr>
+    <tr>
+        <td align="center">
         <a href="https://github.com/helderpinto">
             <img src="https://avatars0.githubusercontent.com/u/10661605?s=400&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
-    </tr>
-    <tr>
         <td align="center">
         <a href="https://github.com/azrikahar">
             <img src="https://avatars0.githubusercontent.com/u/42867097?s=400&v=4" width="100px;" alt=""/><br />
@@ -187,6 +192,8 @@ Special thanks to our contributors:
             <img src="https://avatars0.githubusercontent.com/u/8124536?s=400&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
+    </tr>
+    <tr>
     <td align="center">
         <a href="https://github.com/AzureMentor">
             <img src="https://avatars3.githubusercontent.com/u/30055505?s=400&v=4" width="100px;" alt=""/><br />
