@@ -73,6 +73,11 @@ Special thanks to our contributors:
             </sub> -->
         </a>
     </td>
+        <td align="center">
+        <a href="https://github.com/bmaluijb">
+            <img src="https://avatars1.githubusercontent.com/u/16527331?s=400&u=282e0ffd1c8dbbc90e46c4db692cda548a11bc65&v=4" width="100px;" alt=""/><br />
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/vaheminasyan2">
             <img src="https://avatars0.githubusercontent.com/u/32709965?s=400&v=4" width="100px;" alt=""/><br />
@@ -103,7 +108,9 @@ Special thanks to our contributors:
             <img src="https://avatars2.githubusercontent.com/u/59988192?s=400&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
-    <td align="center">
+    </tr>
+    <tr>
+     <td align="center">
         <a href="https://github.com/tosokr">
             <img src="https://avatars0.githubusercontent.com/u/1630501?s=400&v=4" width="100px;" alt=""/><br />
         </a>
@@ -143,7 +150,9 @@ Special thanks to our contributors:
             <img src="https://avatars0.githubusercontent.com/u/10661605?s=400&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
-    <td align="center">
+    </tr>
+    <tr>
+        <td align="center">
         <a href="https://github.com/azrikahar">
             <img src="https://avatars0.githubusercontent.com/u/42867097?s=400&v=4" width="100px;" alt=""/><br />
         </a>
@@ -183,8 +192,6 @@ Special thanks to our contributors:
             <img src="https://avatars3.githubusercontent.com/u/30055505?s=400&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
-
-
   </tr>
 </table>
 
