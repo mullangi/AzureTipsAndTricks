@@ -15,24 +15,22 @@ Welcome to Azure Tips and Tricks, this site is a special collection of over 260+
 :punch: that :star: button on the official [GitHub repo](https://github.com/Microsoft/AzureTipsAndTricks/) to stay up to date.
 :::
 
-On a side note - If you like Azure Tips and Tricks, then you might enjoy another project that I'm working on for in which I live stream coding, interviews and more. Check out my channel below and hit the [follow button to know when I'm live](https://twitch.tv/mbcrump). 
+On a side note - If you like Azure Tips and Tricks, then you might enjoy another project that I'm working on for in which I live stream coding, interviews and more. Check out my channel below and hit the [follow button to know when I'm live](https://twitch.tv/mbcrump).
 
 <iframe src="https://player.twitch.tv/?collection=D2G5i76t-hUMfw&amp;parent=microsoft.github.io&amp;parent=azuredev.tips" frameborder="0" allowfullscreen="allowfullscreen" scrolling="no" height="378" width="620"></iframe>
 
 #### Site Map
 
-|  Resouce 	|   Description	|
-|---	|---
-|   [Home](http://azuredev.tips)	|   This site can always be found at [http://azuredev.tips](http://azuredev.tips)	|
-|   [Videos](http://videos.azuredev.tips)	|   Our growing playlist of 65+ videos based on the series	|
-|   [Live-coding, interviews and more](https://twitch.tv/mbcrump?WT.mc_id=azure-azuredevtips-micrum)|   Join us to discuss all-things Azure! From live-coding, special guest interviews, breaking software development news and more!	|
-|   [Questions](https://github.com/Microsoft/AzureTipsAndTricks/issues/new?assignees=&labels=&template=questions.md&title=)	|   Add to the GitHub issue tracker and tag it as a question	|
-|   [RSS Feed](https://microsoft.github.io/AzureTipsAndTricks/rss.xml)	|   Keep up to date with all the newest tips posted by subscribing to the RSS feed	|
-|   [Stickers](http://stickers.azuredev.tips)	|   Feel free to print any of these stickers for your events and community meetups	|
-|   [Survey](http://survey.azuredev.tips)	|   Have an idea for a post? Do you have feedback? Leave it here	|
-|   [Contribute and star the repo](https://github.com/Microsoft/AzureTipsAndTricks/)	|   Something out of date? Is something wrong? Then submit a PR and help me fix it. Also, :star: the repo to keep up to date with the project.	|
-                                                           |
-
+| Resouce                                                                                                                 | Description                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Home](http://azuredev.tips)                                                                                            | This site can always be found at [http://azuredev.tips](http://azuredev.tips)                                                              |
+| [Videos](http://videos.azuredev.tips)                                                                                   | Our growing playlist of 65+ videos based on the series                                                                                     |
+| [Live-coding, interviews and more](https://twitch.tv/mbcrump?WT.mc_id=azure-azuredevtips-micrum)                        | Join us to discuss all-things Azure! From live-coding, special guest interviews, breaking software development news and more!              |
+| [Questions](https://github.com/Microsoft/AzureTipsAndTricks/issues/new?assignees=&labels=&template=questions.md&title=) | Add to the GitHub issue tracker and tag it as a question                                                                                   |
+| [RSS Feed](https://microsoft.github.io/AzureTipsAndTricks/rss.xml)                                                      | Keep up to date with all the newest tips posted by subscribing to the RSS feed                                                             |
+| [Stickers](http://stickers.azuredev.tips)                                                                               | Feel free to print any of these stickers for your events and community meetups                                                             |
+| [Survey](http://survey.azuredev.tips)                                                                                   | Have an idea for a post? Do you have feedback? Leave it here                                                                               |
+| [Contribute and star the repo](https://github.com/Microsoft/AzureTipsAndTricks/)                                        | Something out of date? Is something wrong? Then submit a PR and help me fix it. Also, :star: the repo to keep up to date with the project. |
 
 ## Git Workflow
 
@@ -86,6 +84,16 @@ Special thanks to our contributors:
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/MarkDreiling">
+            <img src="https://avatars2.githubusercontent.com/u/40442164?s=400&v=4" width="100px;" alt=""/><br />
+        </a>
+    </td>
+       <td align="center">
+        <a href="https://github.com/yucwan">
+            <img src="https://avatars3.githubusercontent.com/u/49381248?s=400&v=4" width="100px;" alt=""/><br />
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/vuder">
             <img src="https://avatars0.githubusercontent.com/u/1086665?s=400&v=4" width="100px;" alt=""/><br />
         </a>
@@ -106,13 +114,28 @@ Special thanks to our contributors:
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/richeney">
+            <img src="https://avatars0.githubusercontent.com/u/24895350?s=400&u=36c7672a7105bd686d640b967d05e7ed2f65d679&v=4" width="100px;" alt=""/><br />
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/metin">
             <img src="https://avatars3.githubusercontent.com/u/28767?s=400&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/kyleburnsdev">
-            <img src="https://avatars1.githubusercontent.com/u/31851557?s=400&v=4" width="100px;" alt=""/><br />
+            <img src="https://avatars2.githubusercontent.com/u/31851557?s=400&u=0edb8530e07571d4de8c1887cd78e1c18cd287d0&v=4" width="100px;" alt=""/><br />
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jesseloudon">
+            <img src="https://avatars2.githubusercontent.com/u/13147870?s=400&u=472cb17fffe2c9a1eded83bd4f4fe0f65f8de524&v=4" width="100px;" alt=""/><br />
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/hrudayanath">
+            <img src="https://avatars3.githubusercontent.com/u/6183710?s=400&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
     <td align="center">
@@ -121,8 +144,28 @@ Special thanks to our contributors:
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/azrikahar">
+            <img src="https://avatars0.githubusercontent.com/u/42867097?s=400&v=4" width="100px;" alt=""/><br />
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/a-patel">
+            <img src="https://avatars2.githubusercontent.com/u/8511777?s=400&u=f2cf778481e8b37ff7177b39b0257d4fd7a18711&v=4" width="100px;" alt=""/><br />
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/XuGuang-Yao">
+            <img src="https://avatars0.githubusercontent.com/u/53599438?s=400&u=a7bcda539c4a2bba45ad7dc5556718fe08909955&v=4" width="100px;" alt=""/><br />
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/TimSmith714">
             <img src="https://avatars3.githubusercontent.com/u/2846298?s=400&v=4" width="100px;" alt=""/><br />
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Styxxy">
+            <img src="https://avatars0.githubusercontent.com/u/1635825?s=400&u=fe80230d4a987692601c8bd51da35d65de9d021f&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
     <td align="center">
@@ -140,11 +183,7 @@ Special thanks to our contributors:
             <img src="https://avatars3.githubusercontent.com/u/30055505?s=400&v=4" width="100px;" alt=""/><br />
         </a>
     </td>
-    <td align="center">
-        <a href="https://github.com/a-patel">
-            <img src="https://avatars2.githubusercontent.com/u/8511777?s=460&v=4" width="100px;" alt=""/><br />
-        </a>
-    </td>
+
 
   </tr>
 </table>
